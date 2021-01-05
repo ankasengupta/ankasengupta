@@ -4,6 +4,8 @@
   <img src="https://pronouns.vercel.app/she/her?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
+![Anoushka's github stats](https://github-readme-stats.vercel.app/api?username=ankasengupta&hide=stars&show_icons=true&theme=dracula)
+
 <!--
 **ankasengupta/ankasengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
