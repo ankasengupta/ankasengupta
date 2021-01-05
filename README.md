@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Anoushka 👋
+
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/she/her?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
+</a>
 
 <!--
 **ankasengupta/ankasengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
