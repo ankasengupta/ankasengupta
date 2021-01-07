@@ -13,8 +13,12 @@
 
 ![Anoushka's github stats](https://github-readme-stats.vercel.app/api?username=ankasengupta&hide=stars&show_icons=true&theme=dracula)
 
-<!--
+<!-- Most Used Languages Card (Condensed)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankasengupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!-- Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=ankasengupta&color=DC6386)
 -->
 
 <!--
