@@ -7,7 +7,7 @@
 - 🌱 &nbsp; I’m currently a junior (third year) at Mount Holyoke College, majoring in computer science
 - 😄 &nbsp; I'm fluent in **English**, **Hindi** and **Bengali**, and I'm learning **Japanese** and **Italian**
 - 👩🏻‍💻 &nbsp; I’m looking for SWE / SDE / DS / PM internship opportunities for summer 2021
-- 🖥️ &nbsp; Currently working on developing a mobile app using Flutter
+- 🖥️ &nbsp; Currently an Organizer for [TechTogether Boston](https://techtogether.io/boston) as part of the sponsorship team
 - 💬 &nbsp; Ask me about peer mentoring (or any Harry Potter trivia!)
 - 📫 &nbsp; Reach me at <sengu22a@mtholyoke.edu>
 - ⚡ &nbsp; Fun fact: I have a black belt in karate!
