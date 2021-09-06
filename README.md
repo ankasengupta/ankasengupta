@@ -7,7 +7,7 @@
 - 🌱 &nbsp; I’m currently a senior (fourth year) at Mount Holyoke College, majoring in computer science
 - 😄 &nbsp; I'm fluent in **English**, **Hindi** and **Bengali**, and I'm learning **Japanese** and **Italian**
 - 👩🏻‍💻 &nbsp; I’m looking for SWE / SDE / DS / APM **New Grad** opportunities for 2022 or part time opportunities for Fall 2021
-- 🖥️ &nbsp; SDET Intern @ [Nagarro](https://www.nagarro.com/en) | Sponsorship Organizer at [TechTogether Boston](https://techtogether.io/boston) and [queer_hack](http://queerhack.com/)
+- 🖥️ &nbsp; SDET Intern @ [Nagarro](https://www.nagarro.com/en) | Sponsorship Organizer at [TechTogether Boston](https://boston.techtogether.io/) and [queer_hack](http://queerhack.com/)
 - 💬 &nbsp; Ask me about peer mentoring and gender equity in tech (or any Harry Potter trivia!)
 - 📫 &nbsp; Reach me at <sengu22a@mtholyoke.edu>
 - ⚡ &nbsp; Fun fact: I have a black belt in karate!
