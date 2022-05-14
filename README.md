@@ -4,7 +4,7 @@
   <img src="https://pronouns.vercel.app/she/her?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
-- 🌱 &nbsp; I’m currently a senior (fourth year) at Mount Holyoke College, majoring in **Computer Science** and minoring in **Statistics**
+- 🌱 &nbsp; I’m a graduating senior at Mount Holyoke College, majoring in **Computer Science** and minoring in **Statistics**
 - 😄 &nbsp; I'm fluent in **English**, **Hindi** and **Bengali**, and I'm learning **Japanese** and **Italian**
 - 👩🏻‍💻 &nbsp; I’m looking for SWE / DS / APM **New Grad** opportunities for 2022
 - 🖥️ &nbsp; SDET Intern @ [Nagarro](https://www.nagarro.com/en) | Sponsorship Organizer at [TechTogether Boston](https://boston.techtogether.io/) and [queer_hack](http://queerhack.com/)
