@@ -1,13 +1,15 @@
 ### Hi there, I'm Anoushka 👋
 
+<!--
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/she/her?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
+  <img src="https://pronouns.vercel.app/she/they?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
 </a>
+-->
 
-- 🌱 &nbsp; I’m a graduating senior at Mount Holyoke College, majoring in **Computer Science** and minoring in **Statistics**
-- 😄 &nbsp; I'm fluent in **English**, **Hindi** and **Bengali**, and I'm learning **Japanese** and **Italian**
-- 👩🏻‍💻 &nbsp; I’m looking for SWE / DS / APM **New Grad** opportunities for 2022
-- 🖥️ &nbsp; SDET Intern @ [Nagarro](https://www.nagarro.com/en) | Sponsorship Organizer at [TechTogether Boston](https://boston.techtogether.io/) and [queer_hack](http://queerhack.com/)
+- 🌱 &nbsp; I’m a Software Engineer at [Wayfair](https://www.wayfair.com/)
+- 👩🏻‍💻 &nbsp; &nbsp;I graduated *magna cum laude* from [Mount Holyoke College](https://www.mtholyoke.edu/) with a Computer Science major and a Statistics minor
+- 😄 &nbsp; I'm fluent in English, Hindi and Bengali, and I'm learning Japanese and Italian
+- 🖥️ &nbsp; Sponsorship Organizer at [TechTogether Boston](https://boston.techtogether.io/) and [queer_hack](http://queerhack.com/)
 - 💬 &nbsp; Ask me about peer mentoring and gender equity in tech (or any Harry Potter trivia!)
 - 📫 &nbsp; Reach me at <sengu22a@mtholyoke.edu>
 - ⚡ &nbsp; Fun fact: I have a black belt in karate!
