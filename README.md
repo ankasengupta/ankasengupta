@@ -14,7 +14,9 @@
 - 📫 &nbsp; Reach me at <sengu22a@mtholyoke.edu>
 - ⚡ &nbsp; Fun fact: I have a black belt in karate!
 
+<!--
 ![Anoushka's github stats](https://github-readme-stats.vercel.app/api?username=ankasengupta&hide=stars&show_icons=true&theme=dracula)
+-->
 
 <!-- Most Used Languages Card (Condensed)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankasengupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
