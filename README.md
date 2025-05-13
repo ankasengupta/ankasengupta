@@ -8,11 +8,11 @@
 
 - 🌱 &nbsp; Currently looking for new opportunities in Software Engineering and Data Science!
 - 🖥️ &nbsp; Formerly a Study Configuration Engineer at [4G Clinical](https://www.4gclinical.com/) and Software Engineer at [Wayfair](https://www.wayfair.com/) 
-- 👩🏻‍💻 &nbsp; &nbsp;I graduated *magna cum laude* from [Mount Holyoke College](https://www.mtholyoke.edu/) with a Computer Science major and a Statistics minor
+- 👩🏻‍💻 &nbsp; I graduated *magna cum laude* from [Mount Holyoke College](https://www.mtholyoke.edu/) with a Computer Science major and a Statistics minor
 - 😄 &nbsp; I'm fluent in English, Hindi and Bengali, and I'm learning Japanese and Italian
 - 💬 &nbsp; Ask me about peer mentoring and gender equity in tech 
 - 📫 &nbsp; Reach me at <sengu22a@mtholyoke.edu>
-- ⚡ &nbsp; Fun fact: I have a black belt in karate!
+- ⚡ &nbsp; Fun fact: I have a black belt in karate! Now learning kickboxing 🥋
 
 <!--
 ![Anoushka's github stats](https://github-readme-stats.vercel.app/api?username=ankasengupta&hide=stars&show_icons=true&theme=dracula)
